@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+}
+
+nav{
+    border: 2px solid black
+}
+
+li{
+    display: inline-block;
+    height: 50px;
+}
+
+nav a{
+    background-color:brown;
+    padding: 5px
+}
+
+a{
+
+}
+
+
+
+#skip{
+    text-transform: uppercase;
+}
+
